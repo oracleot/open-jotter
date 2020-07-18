@@ -4,8 +4,6 @@
 
 ![screenshot](./openJotter.jpg)
 
-Additional description about the project and its features.
-
 ## Covering Topics in:
 
 - JavaScript,
@@ -22,17 +20,11 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **Author1**
+👤 **Moi**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@oracleot](https://github.com/oracleot)
+- Linkedin: [linkedin](https://linkedin.com/in/doduronbi)
+- MentorCruise: [@twitterhandle](https://mentorcruise.com/mentor/DamilolaOduronbi/)
 
 ## 🤝 Contributing
 
@@ -40,6 +32,6 @@ Contributions and issues are welcome!
 
 Feel free to check the [issues page](issues/).
 
-## Acknowledgments & References
+## Acknowledgments
 
 - Hat tip to all the great tutors and hackers out there
