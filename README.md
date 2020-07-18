@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/-JavaScript-yellow)
+
 # JavaScript | Open Jotter
 
 > A lightweight, interpreted, or just-in-time compiled programming language with first-class functions. (MDN)
