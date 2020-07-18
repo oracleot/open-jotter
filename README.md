@@ -2,7 +2,7 @@
 
 > The only way we can stay relevant is by constantly learning. Hence, this is my open jotter for anyone interested in learning along. Feel feel to help me un-learn what's not right.
 
-![screenshot](./openJotter.jpg)
+![screenshot](./openJotter_new.jpg)
 
 ## Covering Topics in:
 
