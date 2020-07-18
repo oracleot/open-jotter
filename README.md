@@ -1,6 +1,9 @@
-# JavaScript | Open Jotter
+![](https://img.shields.io/badge/-HTML%2FCSS%203-blue)
 
-> A lightweight, interpreted, or just-in-time compiled programming language with first-class functions. (MDN)
+# HTML/CSS3 | Open Jotter
+
+> HTML (HyperText Markup Language) is a descriptive language that specifies webpage structure. (MDN)
+> Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. (MDN)
 
 ## Topics covered in this jotter:
 
@@ -10,7 +13,7 @@
 
 Contributions and issues are welcome!
 
-Feel free to check the [issues page](/issues).
+Feel free to check the [issues page](https://github.com/oracleot/open-jotter/issues).
 
 ## Acknowledgments
 
