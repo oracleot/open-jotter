@@ -2,7 +2,7 @@
 name: HTML/CSS3
 about: Drop all issues or contributions to the HTML/CSS3 jottings
 title: Title of Issue or Contribution
-labels: html
+labels: html, css
 assignees: ''
 
 ---
