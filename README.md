@@ -1,43 +1,22 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Open Jotter
 
-# Project Name
+> The only way we can stay relevant is by constantly learning. Hence, this is my open jotter for anyone interested in learning along. Feel feel to help me un-learn what's not right.
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
+![screenshot](./openJotter.jpg)
 
 Additional description about the project and its features.
 
-## Built With
+## Covering Topics in:
 
-- Major languages,
-- frameworks,
-- technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- JavaScript,
+- HTML/CSS3,
+- React
+- will update more...
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+**Each branch contains topics relating to it's name**
 
 
 
@@ -57,20 +36,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions and issues are welcome!
 
 Feel free to check the [issues page](issues/).
 
-## Show your support
+## Acknowledgments & References
 
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
+- Hat tip to all the great tutors and hackers out there
