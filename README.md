@@ -1,30 +1,10 @@
-# Open Jotter
+# [React](https://reactjs.org/) | Open Jotter
 
-> The only way we can stay relevant is by constantly learning. Hence, this is my open jotter for anyone interested in learning along. Feel feel to help me un-learn what's not right.
+> A JavaScript library for building user interfaces
 
-![screenshot](./openJotter_new.jpg)
+## Topics covered in this jotter:
 
-## Covering Topics in:
-
-- JavaScript,
-- HTML/CSS3,
-- React
-- will update more...
-
-
-## Getting Started
-
-**Each branch contains topics relating to it's name**
-
-
-
-## Authors
-
-👤 **Moi**
-
-- [GitHub](https://github.com/oracleot)
-- [Linkedin](https://linkedin.com/in/doduronbi)
-- [MentorCruise](https://mentorcruise.com/mentor/DamilolaOduronbi/)
+- will update...
 
 ## 🤝 Contributing
 
