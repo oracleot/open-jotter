@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/-React-blue)
+
 # [React](https://reactjs.org/) | Open Jotter
 
 > A JavaScript library for building user interfaces
