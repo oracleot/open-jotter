@@ -22,9 +22,9 @@
 
 👤 **Moi**
 
-- Github: [@oracleot](https://github.com/oracleot)
-- Linkedin: [linkedin](https://linkedin.com/in/doduronbi)
-- MentorCruise: [@twitterhandle](https://mentorcruise.com/mentor/DamilolaOduronbi/)
+- [GitHub](https://github.com/oracleot)
+- [Linkedin](https://linkedin.com/in/doduronbi)
+- [MentorCruise](https://mentorcruise.com/mentor/DamilolaOduronbi/)
 
 ## 🤝 Contributing
 
