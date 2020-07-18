@@ -1,6 +1,6 @@
-# [React](https://reactjs.org/) | Open Jotter
+# JavaScript | Open Jotter
 
-> A JavaScript library for building user interfaces
+> A lightweight, interpreted, or just-in-time compiled programming language with first-class functions. (MDN)
 
 ## Topics covered in this jotter:
 
@@ -10,7 +10,7 @@
 
 Contributions and issues are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](/issues).
 
 ## Acknowledgments
 
