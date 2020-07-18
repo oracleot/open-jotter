@@ -6,9 +6,9 @@
 
 ## Covering Topics in:
 
-- JavaScript,
-- HTML/CSS3,
-- React
+- [JavaScript](https://github.com/oracleot/open-jotter/tree/javascript),
+- [HTML/CSS3](https://github.com/oracleot/open-jotter/tree/html-css3),
+- [React](https://github.com/oracleot/open-jotter/tree/react)
 - will update more...
 
 
@@ -28,9 +28,8 @@
 
 ## 🤝 Contributing
 
-Contributions and issues are welcome!
-
-Feel free to check the [issues page](issues/).
+Contributions and issues are welcome!   
+Feel free to check the [issues page](https://github.com/oracleot/open-jotter/issues).
 
 ## Acknowledgments
 
